@@ -18,7 +18,7 @@ Aug 2024 – Present · BINUS Alam Sutera
 **Front-End:** React.js · HTML · CSS · JavaScript · Laravel · Front-End Design · Responsive UI
 **Design:** UI/UX Design · Figma · Prototyping
 **AI & Data:** Machine Learning · Computer Vision · NLP
-**Engineering:** Python · SQL · Git & GitHub · Linux
+**Engineering:** Python · SQL · Git & GitHub
 **Soft Skills:** Communication · Multitasking · Teamwork · Problem Solving · Creativity
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,6 @@ Aug 2024 – Present · BINUS Alam Sutera
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
